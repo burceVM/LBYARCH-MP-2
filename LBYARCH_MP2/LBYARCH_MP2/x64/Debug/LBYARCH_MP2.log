@@ -1,5 +1,4 @@
-﻿  cfunc.h
-  main.c
-C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(19,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(20,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  main.c
+C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(25,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(20,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   LBYARCH_MP2.vcxproj -> C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\x64\Debug\LBYARCH_MP2.exe
