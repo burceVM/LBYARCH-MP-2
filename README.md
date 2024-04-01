@@ -1,6 +1,9 @@
 # LBYARCH-MP-2
 
 LBYARCH Machine Problem #2
+S14
+Burce, Vincent Maximus
+Del Rosario, Nixin Gabriel
 
 ## DEBUG:
 ### n = 2<sup>20</sup>
@@ -497,3 +500,15 @@ Average Time for C Kernel: 0.187
 ### Total Average Time
 Total Average Time for x86-64 Kernel: 0.108\
 Total Average Time for C Kernel: 0.067
+
+## Analysis
+We can observe that the average execution time in debug mode highly favors the x86-64 version of the kernel, having less than half of the average execution time of the C version.
+With release mode, we can see a drastic improvement with the performance of the C kernel, while the performance of the x86-64 version is slightly worse by about 20ms.
+This is consistent with release mode being configured for optimization, resulting in a faster overall execution time when both kernels are averaged. 
+
+
+## Program Output (with Correctness Check)
+
+![Correctness Check Overall](correctness_check_overall.png "Correctness Check Overall")
+
+Output rounded to two decimal places ensures that C output is correct, and x86-64 version matches output with the C version.
