@@ -1,5 +1,5 @@
-﻿  Performing Custom Build Tools
+﻿  cfunc.h
   main.c
-C:\Users\Nixin\OneDrive\Desktop\Nixin\School Files\College\Term 2 2023-2024\LBYARCH\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(17,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Nixin\OneDrive\Desktop\Nixin\School Files\College\Term 2 2023-2024\LBYARCH\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(18,14): warning C4305: 'initializing': truncation from 'double' to 'float'
-  LBYARCH_MP2.vcxproj -> C:\Users\Nixin\OneDrive\Desktop\Nixin\School Files\College\Term 2 2023-2024\LBYARCH\LBYARCH-MP-2\LBYARCH_MP2\x64\Debug\LBYARCH_MP2.exe
+C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(19,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\LBYARCH_MP2\main.c(20,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LBYARCH_MP2.vcxproj -> C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\x64\Debug\LBYARCH_MP2.exe

@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2001: unresolved external symbol asm_version
+C:\Users\msi\Documents\GitHub\LBYARCH-MP-2\LBYARCH_MP2\x64\Release\LBYARCH_MP2.exe : fatal error LNK1120: 1 unresolved externals

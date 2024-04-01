@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|solutionrelative:LBYARCH_MP2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\cfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|solutionrelative:LBYARCH_MP2\\cfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8BF8D493-9157-48FB-8AFD-1F8A146036F3}|LBYARCH_MP2\\LBYARCH_MP2.vcxproj|solutionrelative:LBYARCH_MP2\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\main.c",
+              "RelativeDocumentMoniker": "LBYARCH_MP2\\main.c",
+              "ToolTip": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\main.c",
+              "RelativeToolTip": "LBYARCH_MP2\\main.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T13:12:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cfunc.h",
+              "DocumentMoniker": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\cfunc.h",
+              "RelativeDocumentMoniker": "LBYARCH_MP2\\cfunc.h",
+              "ToolTip": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\cfunc.h",
+              "RelativeToolTip": "LBYARCH_MP2\\cfunc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-01T03:50:10.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\asmfunc.asm",
+              "RelativeDocumentMoniker": "LBYARCH_MP2\\asmfunc.asm",
+              "ToolTip": "C:\\Users\\msi\\Documents\\GitHub\\LBYARCH-MP-2\\LBYARCH_MP2\\LBYARCH_MP2\\asmfunc.asm",
+              "RelativeToolTip": "LBYARCH_MP2\\asmfunc.asm",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-31T13:12:23.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
