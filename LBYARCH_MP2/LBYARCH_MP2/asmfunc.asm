@@ -3,7 +3,11 @@ bits 64
 default rel ;address relocation
 global asm_version
 
-; A = scalar (xmm0), X = 1st vector (rdx), Y = 2nd vector (r8), n = number of floats in vector (r9), Z = result vector (rbp + 32)
+; A = scalar (xmm0), 
+;X = mem address of 1st vector (rdx), 
+; Y = mem address of 2nd vector (r8), 
+;n = number of floats in vector (r9), 
+; Z = mem address of result vector (rbp + 32)
 asm_version:
 	;set-up for more than 4 parameters
 	push rsi
